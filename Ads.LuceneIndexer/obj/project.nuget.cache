@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZlfqoPqRsBhUoy+s/bWsIyPWbElpZ9iChuryWMYMQYs5kME+Gg5rKSDoKPY+u+/PI/li/N8dRdNc09Jvsyyqmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alperen Kürşat Özkan\\source\\repos\\Ads.Lucene\\Ads.LuceneIndexer\\Ads.LuceneIndexer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alperen Kürşat Özkan\\.nuget\\packages\\j2n\\2.0.0\\j2n.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alperen Kürşat Özkan\\.nuget\\packages\\lucene.net\\4.8.0-beta00016\\lucene.net.4.8.0-beta00016.nupkg.sha512",
+    "C:\\Users\\Alperen Kürşat Özkan\\.nuget\\packages\\lucene.net.analysis.common\\4.8.0-beta00016\\lucene.net.analysis.common.4.8.0-beta00016.nupkg.sha512",
+    "C:\\Users\\Alperen Kürşat Özkan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alperen Kürşat Özkan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Alperen Kürşat Özkan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Alperen Kürşat Özkan\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alperen Kürşat Özkan\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Alperen Kürşat Özkan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\obj\Debug\net6.0\Ads.LuceneIndexer.csproj.AssemblyReference.cache
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\obj\Debug\net6.0\Ads.LuceneIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\obj\Debug\net6.0\Ads.LuceneIndexer.AssemblyInfoInputs.cache
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\obj\Debug\net6.0\Ads.LuceneIndexer.AssemblyInfo.cs
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\obj\Debug\net6.0\Ads.LuceneIndexer.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\bin\Debug\net6.0\Ads.LuceneIndexer.deps.json
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\bin\Debug\net6.0\Ads.LuceneIndexer.dll
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\bin\Debug\net6.0\Ads.LuceneIndexer.pdb
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\obj\Debug\net6.0\Ads.LuceneIndexer.dll
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\obj\Debug\net6.0\refint\Ads.LuceneIndexer.dll
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\obj\Debug\net6.0\Ads.LuceneIndexer.pdb
+C:\Users\Alperen Kürşat Özkan\source\repos\Ads.Lucene\Ads.LuceneIndexer\obj\Debug\net6.0\ref\Ads.LuceneIndexer.dll
